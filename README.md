@@ -1,12 +1,12 @@
-\# Font Awesome v7.2.0 Pro - Changelog \& New Icons
+**Font Awesome v7.2.0 Pro - Changelog \& New Icons** 
 
 
 
-\## 🆕 Added
+** 🆕 Added**
 
 
 
-\### 💎 New Pro+ icon pack: Graphite!
+** 💎 New Pro+ icon pack: Graphite!**
 
 \* A brand new hand-drawn Pro+ icon pack from designer Vic Bell. Featuring over 200 of the most commonly used icons for app and website design, Graphite is a fantastic new addition to the Font Awesome family.
 
@@ -30,7 +30,7 @@
 
 
 
-\### 🌙 Moon phase icons!
+** 🌙 Moon phase icons!**
 
 A full series of moon phase icons:
 
@@ -38,7 +38,7 @@ A full series of moon phase icons:
 
 
 
-\### ♈ Zodiac symbols!
+** ♈ Zodiac symbols!**
 
 12 new Zodiac symbols:
 
@@ -46,7 +46,7 @@ A full series of moon phase icons:
 
 
 
-\### 🚀 New Brands!
+** 🚀 New Brands!**
 
 Added a whole slew of the most-requested brand icons, including:
 
@@ -60,7 +60,7 @@ Added a whole slew of the most-requested brand icons, including:
 
 
 
-\### 🦘 An Awesome 'Possum!
+** 🦘 An Awesome 'Possum!**
 
 And last, but not least, an `opossum` icon.
 
